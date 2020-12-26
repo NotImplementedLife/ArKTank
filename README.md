@@ -1,4 +1,4 @@
-# arKTank
+# ArKTank
 A very basic shooter written in pygame
 
 Found this on my hard drive. I wrote it in 2018 while learning python. 
